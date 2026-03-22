@@ -1,0 +1,128 @@
+🐍 Python Roadmap (WITH 120+ CODING PROBLEMS)
+⏰ Daily Rule (Non-negotiable)
+🔹 3–6 problems daily
+🔹 Revise previous problems every 3rd day
+🔹 Write clean code + dry run
+🔵 WEEK 1: Python Basics + Easy Problem Solving
+📚 Topics
+Variables, loops, functions
+Strings & arrays basics
+💻 Problems (Easy Level – 30 Problems)
+🔹 Basic Logic
+Reverse Integer -----done
+Palindrome Number --- done
+Armstrong Number
+Sum of digits
+Count digits
+🔹 Arrays
+Two Sum
+Find maximum element
+Find minimum element
+Move Zeroes
+Remove duplicates
+🔹 Strings
+Valid Palindrome
+Reverse String
+First Unique Character
+Longest Common Prefix
+Anagram check
+🔹 Extra
+Missing Number
+Contains Duplicate
+Intersection of arrays
+Plus One
+Majority Element
+
+👉 Target: 25–30 problems
+
+🔵 WEEK 2: Intermediate DSA (Patterns Start)
+📚 Topics
+Hashing
+Sliding Window
+Two Pointers
+💻 Problems (Medium – 35 Problems)
+🔹 Sliding Window
+Longest Substring Without Repeating Characters
+Maximum Sum Subarray
+Minimum Window Substring
+🔹 Two Pointer
+Container With Most Water
+3Sum
+Remove Duplicates II
+🔹 Hashing
+Subarray Sum Equals K
+Top K Frequent Elements
+Group Anagrams
+🔹 Arrays Advanced
+Product of Array Except Self
+Rotate Array
+Jump Game
+
+👉 Target: 30–35 problems
+
+🔵 WEEK 3: Core DSA (Interview Level)
+📚 Topics
+Recursion
+Linked List
+Stack & Queue
+💻 Problems (Medium/Hard – 35 Problems)
+🔹 Recursion / Backtracking
+Subsets
+Permutations
+Combination Sum
+N-Queens
+🔹 Linked List
+Reverse Linked List
+Merge Two Lists
+Detect Cycle
+Remove Nth Node
+🔹 Stack
+Valid Parentheses
+Min Stack
+Daily Temperatures
+🔹 Queue
+Implement Queue using Stack
+
+👉 Target: 30–35 problems
+
+🔵 WEEK 4: Advanced + Placement Level
+📚 Topics
+Trees
+Binary Search
+Revision + Mock
+💻 Problems (30+ Problems)
+🔹 Trees
+Inorder Traversal
+Level Order Traversal
+Max Depth of Tree
+Same Tree
+Lowest Common Ancestor
+🔹 Binary Search
+Binary Search
+Search in Rotated Array
+Find Peak Element
+🔹 Mixed (Important)
+LRU Cache
+Kth Largest Element
+Median of Two Sorted Arrays
+
+👉 Target: 30 problems
+
+📊 TOTAL PROBLEMS
+Week 1 → 30
+Week 2 → 35
+Week 3 → 35
+Week 4 → 30
+
+👉 TOTAL = 120+ Problems
+
+🚀 Parallel Python Learning (Daily)
+
+While solving problems, also cover:
+
+🔹 Python Concepts
+Day 1–5 → Basics
+Day 6–10 → Functions + DS
+Day 11–15 → OOP
+Day 16–20 → File handling
+Day 21–30 → Libraries (NumPy, Pandas)
